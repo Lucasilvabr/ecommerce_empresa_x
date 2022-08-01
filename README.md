@@ -37,3 +37,10 @@ function soma(a, b) {
     Return a+b;
 }
 ´´´
+
+## Lista de tarefas
+
+- [x] Area de membros
+- [ ] integração com pagamentos
+- [x] Css do rodapé.
+
