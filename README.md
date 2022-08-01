@@ -32,8 +32,8 @@ _checkout catálogo , **tela produto**, home com banner_
 
 ``` JavaScript
 
-    function soma(a, b) {
+function soma(a, b) {
 
-        Return a+b;
-    }
+    Return a+b;
+}
 ´´´
