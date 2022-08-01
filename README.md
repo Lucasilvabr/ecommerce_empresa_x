@@ -25,9 +25,6 @@ _checkout catálogo , **tela produto**, home com banner_
 
 ![logo do python](python.png)
 
-## Imagem PHP
-
-![Logo php](https://images.app.goo.gl/yJFAb8r17YDjg2wv6)
 
 
 
