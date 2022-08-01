@@ -15,9 +15,9 @@ _checkout catálogo , **tela produto**, home com banner_
 * MySql
 
 1. Area de membros
- 1. Login diferente para grupos de cliente.
- 2. Desconto especial
- 3. Css diferente
+    1. Login diferente para grupos de cliente.
+    2. Desconto especial
+    3. Css diferente
 2. Integração com outros pagamentos
 3. Sitemas de bônus primeira compra
 
