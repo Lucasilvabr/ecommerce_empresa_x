@@ -27,7 +27,7 @@ _checkout catálogo , **tela produto**, home com banner_
 
 ## Imagem PHP
 
-![Logo php](https://www.google.com.br/search?q=png+php&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOp7C-kab5AhW-tJUCHff4DjUQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=h1Ov0F4w_smJeM)
+![Logo php](https://images.app.goo.gl/MEvN7ASoVHeK8Es1A)
 
 
 
