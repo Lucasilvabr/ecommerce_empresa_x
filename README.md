@@ -21,6 +21,8 @@ _checkout catálogo , **tela produto**, home com banner_
 2. Integração com outros pagamentos
 3. Sitemas de bônus primeira compra
 
+![logo do python](python.png)
+
 
 
 
