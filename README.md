@@ -14,6 +14,10 @@ _checkout catálogo , **tela produto**, home com banner_
 * Php
 * MySql
 
+1. Area de membros
+2. Integração com outros pagamentos
+3. Sitemas de bônus primeira compra
+
 
 
 
