@@ -21,9 +21,13 @@ _checkout catálogo , **tela produto**, home com banner_
 2. Integração com outros pagamentos
 3. Sitemas de bônus primeira compra
 
+## Imagem Python
+
 ![logo do python](python.png)
 
+## Imagem PHP
 
+![Logo php](https://www.google.com.br/search?q=png+php&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOp7C-kab5AhW-tJUCHff4DjUQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=h1Ov0F4w_smJeM)
 
 
 
