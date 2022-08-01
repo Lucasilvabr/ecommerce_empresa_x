@@ -30,4 +30,10 @@ _checkout catálogo , **tela produto**, home com banner_
 
 [Google](https://www.google.com)
 
+``` JavaScript
 
+    function soma(a, b) {
+
+        Return a+b;
+    }
+´´´
